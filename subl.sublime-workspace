@@ -4,6 +4,90 @@
 		"selected_items":
 		[
 			[
+				"en",
+				"entries"
+			],
+			[
+				"type",
+				"type01"
+			],
+			[
+				"typ",
+				"type01"
+			],
+			[
+				"rec",
+				"record"
+			],
+			[
+				"proce",
+				"process_need"
+			],
+			[
+				"ass",
+				"assets_module"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"act",
+				"actual_need"
+			],
+			[
+				"ne",
+				"need_id"
+			],
+			[
+				"fet",
+				"fetch_need_data"
+			],
+			[
+				"ex",
+				"expected_need"
+			],
+			[
+				"exp",
+				"expected_assets"
+			],
+			[
+				"now",
+				"now_plus_one"
+			],
+			[
+				"dum",
+				"dummy_model"
+			],
+			[
+				"model",
+				"models"
+			],
+			[
+				"sen",
+				"send_control_data"
+			],
+			[
+				"com",
+				"compile_control_messages"
+			],
+			[
+				"assert",
+				"assert_receive"
+			],
+			[
+				"con",
+				"construct_need"
+			],
+			[
+				"Pro",
+				"ProcessNeed"
+			],
+			[
+				"tran",
+				"translate_to_internal_models"
+			],
+			[
 				"ev",
 				"event"
 			],
@@ -56,10 +140,6 @@
 				"query"
 			],
 			[
-				"ass",
-				"assets"
-			],
-			[
 				"Li",
 				"LiveTopology"
 			],
@@ -70,10 +150,6 @@
 			[
 				"cont",
 				"control_record"
-			],
-			[
-				"con",
-				"connector"
 			],
 			[
 				"att",
@@ -96,15 +172,7 @@
 				"session"
 			],
 			[
-				"ex",
-				"expected_columns"
-			],
-			[
 				"ac",
-				"activity_name"
-			],
-			[
-				"act",
 				"activity_name"
 			],
 			[
@@ -268,10 +336,6 @@
 				"defaultName"
 			],
 			[
-				"en",
-				"encode_observation"
-			],
-			[
 				"obs",
 				"observationName"
 			],
@@ -354,10 +418,6 @@
 			[
 				"me",
 				"member_id"
-			],
-			[
-				"req",
-				"required_fields"
 			],
 			[
 				"no",
@@ -454,71 +514,19 @@
 			[
 				"up",
 				"update_map"
-			],
-			[
-				"ins",
-				"instructor"
-			],
-			[
-				"va",
-				"valid_attrs"
-			],
-			[
-				"inva",
-				"invalid_attrs"
-			],
-			[
-				"clu",
-				"club_member"
-			],
-			[
-				"Subtract",
-				"Subtracter"
-			],
-			[
-				"Subt",
-				"Subtracter"
-			],
-			[
-				"Add",
-				"Adder"
-			],
-			[
-				"do",
-				"do_stuff"
-			],
-			[
-				"Sco",
-				"Schools"
-			],
-			[
-				"link",
-				"link_id"
-			],
-			[
-				"lin",
-				"link_id"
-			],
-			[
-				"ht",
-				"html_body"
-			],
-			[
-				"find",
-				"find_parent_catalog"
-			],
-			[
-				"ori",
-				"original_catalog"
-			],
-			[
-				"te",
-				"technique"
 			]
 		]
 	},
 	"buffers":
 	[
+		{
+			"file": "lib/event_subscriber_supervisor.ex",
+			"settings":
+			{
+				"buffer_size": 464,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -528,9 +536,13 @@
 	"command_palette":
 	{
 		"height": 392.0,
-		"last_filter": "pa",
+		"last_filter": "Snippet: ",
 		"selected_items":
 		[
+			[
+				"Snippet: ",
+				"Snippet: unless"
+			],
 			[
 				"pa",
 				"Package Control: Remove Package"
@@ -560,7 +572,7 @@
 				"Package Control: Advanced Install Package"
 			]
 		],
-		"width": 444.0
+		"width": 389.0
 	},
 	"console":
 	{
@@ -579,146 +591,153 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/Users/mark/projects/mwindholtz/phoenix_pubsub_example",
+		"/Users/mark/projects/mwindholtz/phoenix_pubsub_example/deps",
+		"/Users/mark/projects/mwindholtz/phoenix_pubsub_example/lib"
+	],
 	"file_history":
 	[
-		"/Users/mark/projects/mwindholtz/pub_sub_spike/lib/application.ex",
-		"/Users/mark/projects/mwindholtz/pub_sub_spike/README.md",
-		"/Users/mark/projects/mwindholtz/pub_sub_spike/lib/event.ex",
-		"/Users/mark/projects/mwindholtz/pub_sub_spike/lib/service.ex",
-		"/Users/mark/projects/mwindholtz/pub_sub_spike/lib/event_server_supervisor.ex",
-		"/Users/mark/projects/mwindholtz/pub_sub_spike/lib/event_server.ex",
-		"/Users/mark/projects/mwindholtz/pub_sub_spike/lib/observer.ex",
-		"/Users/mark/projects/mwindholtz/pub_sub_spike/mix.exs",
-		"/Users/mark/projects/mwindholtz/pub_sub_spike/lib/pub_sub_spike.ex",
-		"/Users/mark/projects/mwindholtz/pub_sub_spike/lib/game_store.ex",
-		"/Users/mark/projects/mwindholtz/pub_sub_spike/lib/some_server.ex",
-		"/Users/mark/projects/Enbala/vpp/vpp/apps/data_persist/config/prod.exs",
-		"/Users/mark/projects/Enbala/vpp/vpp/apps/data_persist/config/dev.exs",
-		"/Users/mark/projects/Enbala/vpp/vpp/apps/data_persist/mix.exs",
-		"/Users/mark/projects/Enbala/vpp/vpp/apps/data_persist/config/test.exs",
-		"/Users/mark/projects/Enbala/vpp/vpp/config/local.exs",
-		"/Users/mark/projects/Enbala/vpp/vpp/apps/data_persist/tasks/release.ex",
-		"/Users/mark/projects/Enbala/vpp/vpp/apps/data_persist/lib/data_persist/repo.ex",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/telemetry_router/mix.exs",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/api/mix.exs",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/telemetry_router/lib/telemetry_router/data.ex",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/api/lib/schema/telemetry.ex",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/topology/lib/sites/twin/impl.ex",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/telemetry_router/lib/telemetry_router.ex",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/topology/lib/telemetry.ex",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/api/test/integration/demand_response_test.exs",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/telemetry_router/lib/telemetry_router/telemetry_record.ex",
+		"/Users/mark/projects/Enbala/vpp/vpp/rel/package/files/opt/vpp/ui/src/Models/Relationships.elm",
+		"/Users/mark/projects/Enbala/vpp/vpp/rel/package/files/opt/vpp/ui/src/Components/Graphs/SiteLine.elm",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/topology/test/sites/twin/impl_test.exs",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/topology/test/assets/twin/impl_test.exs",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/topology/lib/vpps/twin/impl.ex",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/topology/test/telemetry_test.exs",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/topology/test/vpps/twin/impl_test.exs",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/telemetry_router/test/telemetry_router_test.exs",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/topology/test/sites_test.exs",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/api/lib/subscriptions.ex",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/api/lib/resolvers/telemetry_resolver.ex",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/topology/lib/topology.ex",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/api/lib/resolvers/site_resolver.ex",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/telemetry_router/lib/telemetry_router/store.ex",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/api/lib/resolvers/asset_resolver.ex",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/api/lib/resolvers/vpp_resolver.ex",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/topology/lib/sites.ex",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/api/test/integration/needs_test.exs",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/topology/lib/assets/twin/impl.ex",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/api/lib/controllers/exports/asset_controller.ex",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/api/lib/controllers/exports/site_controller.ex",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/api/lib/controllers/exports/vpp_controller.ex",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/telemetry_router/lib/telemetry_router/store/impl.ex",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/api/lib/telemetry_receiver.ex",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/security/lib/security/user.ex",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/api/lib/schema/vpp.ex",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/api/test/resolvers/telemetry_resolver_test.exs",
+		"/Users/mark/projects/Enbala/vpp/vpp/rel/package/files/opt/vpp/ui/src/Api/Object/TelemetryRecord.elm",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/topology/lib/assets/store.ex",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/topology/lib/adapters/relay.ex",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/api/test/schema/shared_types_test.exs",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/telemetry_router/lib/telemetry_router/application.ex",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/security/lib/security/user/actions.ex",
+		"/Users/mark/projects/Enbala/vpp/vpp/rel/package/files/opt/vpp/ui/src/GraphQl/Subscription.elm",
+		"/Users/mark/projects/Enbala/vpp/vpp/rel/package/files/opt/vpp/ui/src/Api/Subscription.elm",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/api/lib/schema/shared_types.ex",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/demand_response/lib/telemetry/impl.ex",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/demand_response/test/telemetry/impl_test.exs",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/topology/lib/assets/twin.ex",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/demand_response/lib/telemetry.ex",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/topology/lib/sites/twin.ex",
+		"/Users/mark/projects/Enbala/vpp/vpp/rel/package/files/opt/vpp/ui/src/Models/TelemetryRecord.elm",
+		"/Users/mark/projects/Enbala/vpp/vpp/rel/package/files/opt/vpp/ui/src/Models/NewTelemetryRecord.elm",
+		"/Users/mark/projects/Enbala/vpp/vpp/rel/package/files/opt/vpp/ui/elm-stuff/.elm-analyse/_shas/00c2a04cf93c25f4a53099df2c5f8fe5e9fe21f2.elma",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/api/test/support/integration_case.ex",
+		"/Users/mark/projects/Enbala/vpp/ui/src/GraphQl/Decode.elm",
+		"/Users/mark/projects/Enbala/vpp/vpp/rel/package/files/opt/vpp/ui/src/Pages/Site/Show.elm",
 		"/Users/mark/projects/Enbala/vpp/vpp/apps/topology/test/data/site_actions_test.exs",
-		"/Users/mark/projects/Enbala/vpp/vpp/apps/data_persist/lib/data_persist/schema/user.ex",
-		"/Users/mark/projects/Enbala/vpp/vpp/apps/data_persist/priv/repo/structure.sql",
-		"/Users/mark/projects/Enbala/vpp/vpp/apps/data_persist/priv/repo/migrations/20180321214133_create_users.exs",
-		"/Users/mark/projects/Enbala/derms/apps/topology/lib/topology/live_topology.ex",
-		"/Users/mark/projects/Enbala/derms/apps/control/lib/control/event_manager.ex",
-		"/Users/mark/projects/Enbala/derms/apps/topology/test/topology/live_topology_test.exs",
-		"/Users/mark/projects/Enbala/derms/apps/bus/lib/bus/event.ex",
-		"/Users/mark/projects/Enbala/derms/apps/bus/lib/bus/event_server.ex",
-		"/Users/mark/projects/Enbala/derms/apps/topology/lib/topology/application.ex",
-		"/Users/mark/projects/Enbala/derms/apps/topology/lib/topology/live_topology/state.ex",
-		"/Users/mark/projects/Enbala/derms/apps/bus/test/dispatcher_test.exs",
-		"/Users/mark/projects/Enbala/derms/apps/bus/test/event_server_test.exs",
-		"/Users/mark/projects/Enbala/derms/apps/bus/test/bus_test.exs",
-		"/Users/mark/projects/Enbala/derms/apps/bus/lib/bus.ex",
-		"/Users/mark/projects/Enbala/derms/apps/bus/lib/bus/some_server.ex",
-		"/Users/mark/projects/Enbala/derms/apps/bus/lib/bus/game_store.ex",
-		"/Users/mark/projects/Enbala/derms/apps/bus/config/config.exs",
-		"/Users/mark/projects/Enbala/derms/apps/bus/mix.exs",
-		"/Users/mark/projects/Enbala/derms/apps/control/lib/control/violation/event.ex",
-		"/Users/mark/projects/Enbala/derms/apps/control/lib/control/violation.ex",
-		"/Users/mark/projects/Enbala/derms/apps/control/test/control/violation_test.exs",
-		"/Users/mark/projects/Enbala/derms/apps/control/lib/control/resource_health_processor.ex",
-		"/Users/mark/projects/Enbala/derms/apps/control/test/control/thermal_constraint_telemetry_processor_test.exs",
-		"/Users/mark/projects/Enbala/derms/apps/control/test/control/violation/event_test.exs",
-		"/Users/mark/projects/Enbala/derms/apps/bus/lib/bus/dispatcher.ex",
-		"/Users/mark/projects/Enbala/derms/apps/bus/test/support/test_case.ex",
-		"/Users/mark/projects/Enbala/derms/apps/bus/test/test_helper.exs",
-		"/Users/mark/projects/Enbala/derms/apps/control/mix.exs",
-		"/Users/mark/projects/Enbala/derms/apps/bus/lib/bus/application.ex",
-		"/Users/mark/projects/Enbala/derms/apps/bidding/mix.exs",
-		"/Users/mark/projects/Enbala/derms/apps/topology/mix.exs",
-		"/Users/mark/projects/Enbala/derms/apps/api/mix.exs",
-		"/Users/mark/projects/Enbala/derms/apps/bus/test/evt_server_test.exs",
-		"/Users/mark/projects/Enbala/derms/apps/bus/lib/bus/evt_server.ex",
-		"/Users/mark/projects/Enbala/derms/apps/bus/lib/bus/evt.ex",
-		"/Users/mark/projects/Enbala/derms/apps/utils/test/evt_server_test.exs",
-		"/Users/mark/projects/Enbala/derms/apps/utils/lib/utils/dispatcher.ex",
-		"/Users/mark/projects/Enbala/derms/apps/utils/test/dispatcher_test.exs",
-		"/Users/mark/projects/Enbala/derms/apps/utils/lib/utils/evt_server.ex",
-		"/Users/mark/projects/Enbala/derms/apps/utils/lib/utils/evt.ex",
-		"/Users/mark/projects/Enbala/derms/apps/event_bus/mix.exs",
-		"/Users/mark/projects/Enbala/derms/apps/api/lib/api_web/controllers/feeder_controller.ex",
-		"/Users/mark/projects/Enbala/derms/apps/api/lib/api/feeders.ex",
-		"/Users/mark/projects/Enbala/derms/apps/utils/lib/utils/application.exs",
-		"/Users/mark/projects/Enbala/derms/apps/utils/mix.exs",
-		"/Users/mark/projects/Enbala/derms/mix.exs",
-		"/Users/mark/projects/Enbala/derms/apps/integration_tests/test/support/test_case.ex",
-		"/Users/mark/projects/Enbala/derms/apps/integration_tests/test/integration/reverse_flow_test.exs",
-		"/Users/mark/projects/Enbala/derms/apps/control/test/control/topology/connector_test.exs",
-		"/Users/mark/projects/Enbala/derms/apps/control/lib/control/topology/connector.ex",
-		"/Users/mark/projects/Enbala/derms/apps/control/lib/control/control_record_processor.ex",
-		"/Users/mark/projects/Enbala/derms/apps/integration_tests/test/integration/apm_shared_cases.ex",
-		"/Users/mark/projects/Enbala/derms/apps/control/test/support/http_mock.ex",
-		"/Users/mark/projects/Enbala/derms/apps/control/lib/control/violation/thermal_constraint.ex",
-		"/Users/mark/projects/Enbala/derms/apps/control/lib/control/thermal_constraint_telemetry_processor.ex",
-		"/Users/mark/projects/Enbala/derms/apps/utils/lib/utils/telemetry_processor.ex",
-		"/Users/mark/projects/Enbala/derms/apps/api/lib/api/query/telemetry.ex",
-		"/Users/mark/projects/Enbala/derms/apps/api/lib/api/telemetry_processor.ex",
-		"/Users/mark/projects/Enbala/derms/apps/control/lib/control/problem/apm.ex",
-		"/Users/mark/projects/Enbala/derms/apps/control/lib/control/violation/reverse_flow.ex",
-		"/Users/mark/projects/Enbala/derms/apps/control/lib/control/voltage_processor.ex",
-		"/Users/mark/projects/Enbala/derms/apps/control/lib/control/feeder_health_monitor.ex",
-		"/Users/mark/projects/Enbala/derms/apps/api/lib/api_web/asset_controller_crud.ex",
-		"/Users/mark/projects/Enbala/derms/apps/optimization/test/optimization/telemetry_processor_test.exs",
-		"/Users/mark/projects/Enbala/derms/apps/topology/test/topology/topology_event_processor_test.exs",
-		"/Users/mark/projects/Enbala/derms/apps/data/test/user_test.exs",
-		"/Users/mark/projects/Enbala/derms/apps/utils/test/support/test_case.ex",
-		"/Users/mark/projects/Enbala/derms/apps/optimization/test/optimization/optimization_test.exs",
-		"/Users/mark/projects/Enbala/derms/apps/optimization/lib/optimization/telemetry_processor.ex",
-		"/Users/mark/projects/Enbala/derms/config/dialyzer.ignore-warnings",
-		"/Users/mark/projects/Enbala/derms/apps/control/lib/control/notification_center.ex",
-		"/Users/mark/projects/Enbala/derms/apps/data/test/support/test_case.ex",
-		"/Users/mark/projects/Enbala/derms/apps/control/lib/control/client.ex",
-		"/Users/mark/projects/Enbala/derms/apps/topology/lib/topology/live_topology/asset/protocol.ex",
-		"/Users/mark/projects/Enbala/derms/apps/control/test/control/feeder_health_monitor_test.exs",
-		"/Users/mark/projects/Enbala/derms/apps/control/test/control/resource_health_processor_test.exs",
-		"/Users/mark/projects/Enbala/derms/apps/control/config/config.exs",
-		"/Users/mark/projects/Enbala/derms/apps/integration_tests/test/integration/control_auth_test.exs",
-		"/Users/mark/projects/Enbala/derms/apps/topology/lib/topology/topology_event_processor.ex",
-		"/Users/mark/projects/Enbala/derms/apps/control/test/control/topology_event_processor_test.exs",
-		"/Users/mark/projects/Enbala/derms/apps/topology/test/topology/live_topology/state_test.exs",
-		"/Users/mark/projects/Enbala/derms/apps/control/lib/control/topology/connector_supervisor.ex",
-		"/Users/mark/projects/Enbala/derms/apps/control/lib/control/topology_event_processor.ex",
-		"/Users/mark/projects/Enbala/derms/apps/control/test/control/topology/connector_supervisor_test.exs",
-		"/Users/mark/projects/Enbala/derms/apps/api/test/api/feeders_test.exs",
-		"/Users/mark/projects/Enbala/derms/apps/api/test/support/test_case.ex",
-		"/Users/mark/projects/Enbala/derms/apps/control/test/test_helper.exs",
-		"/Users/mark/projects/Enbala/derms/apps/topology/test/test_helper.exs",
-		"/Users/mark/projects/Enbala/derms/apps/api/test/test_helper.exs",
-		"/Users/mark/projects/Enbala/derms/apps/bidding/test/test_helper.exs",
-		"/Users/mark/projects/Enbala/derms/apps/control/test/control/control_record_processor_test.exs",
-		"/Users/mark/projects/Enbala/derms/apps/api/config/config.exs",
-		"/Users/mark/projects/Enbala/derms/apps/optimization/lib/optimization.ex",
-		"/Users/mark/projects/Enbala/derms/apps/control/test/control/problem/apm_test.exs",
-		"/Users/mark/projects/Enbala/derms/apps/bidding/lib/solver/ask.ex",
-		"/Users/mark/projects/Enbala/derms/apps/topology/test/topology/live_topology/query_test.exs",
-		"/Users/mark/projects/Enbala/derms/apps/topology/lib/topology/live_topology/graph.ex",
-		"/Users/mark/projects/Enbala/derms/apps/topology/lib/topology/live_topology/query.ex",
-		"/Users/mark/projects/Enbala/derms/apps/control/lib/control/types.ex",
-		"/Users/mark/projects/Enbala/derms/apps/topology/test/topology/live_topology/connector_test.exs",
-		"/Users/mark/projects/Enbala/derms/apps/data/test/connector_test.exs",
-		"/Users/mark/projects/Enbala/derms/apps/ui/assets/css/_line_graph.scss",
-		"/Users/mark/projects/Enbala/derms/apps/integration_tests/test/integration/thermal_constraint_test.exs",
-		"/Users/mark/projects/Enbala/derms/apps/integration_tests/test/integration/vvo_test.exs",
-		"/Users/mark/projects/Enbala/derms/apps/api/test/api_web/controllers/capacitor_bank_controller_test.exs",
-		"/Users/mark/projects/Enbala/derms/apps/api/test/api_web/controllers/connector_controller_crud_test.exs",
-		"/Users/mark/projects/Enbala/derms/apps/api/test/api_web/controllers/smart_inverter_controller_test.exs",
-		"/Users/mark/projects/Enbala/derms/apps/api/test/api_web/controllers/terminal_controller_test.exs",
-		"/Users/mark/projects/Enbala/derms/apps/api/lib/api/query/connector_state_record.ex"
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/topology/test/data/vpp_actions_test.exs",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/api/test/resolvers/resource_resolver_test.exs",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/bidding/test/constraints/blackout_test.exs",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/api/test/resolvers/asset_resolver_test.exs",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/bidding/test/constraints/max_activations_test.exs",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/bidding/test/internal_model/control_message_test.exs",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/bidding/test/internal_model/internal_model_test.exs",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/bidding/test/process_needs/impl_test.exs",
+		"/Users/mark/projects/Enbala/vpp/vpp/mix.exs",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/topology/lib/data/asset_actions.ex",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/common_utils/lib/date_time_range.ex",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/topology/test/demand_response/impl_test.exs",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/topology/lib/adapters/config.ex",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/bidding/lib/internal_model/control_message.ex",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/topology/lib/data/app_data/impl.ex",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/api/test/test_helper.exs",
+		"/Users/mark/projects/Enbala/vpp/vpp/rel/package/files/opt/vpp/ui/elm-stuff/packages/dillonkearns/graphqelm/11.1.0/examples/src/Helpers.elm",
+		"/Users/mark/projects/Enbala/vpp/vpp/rel/package/files/opt/vpp/ui/elm-stuff/.elm-analyse/_shas/59b21c9301a8e3450f67d6d7a72258afc97de3c4.elma",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/data_persist/tasks/release.ex",
+		"/Users/mark/projects/Enbala/vpp/vpp/rel/package/files/opt/vpp/ui/src/Main.elm",
+		"/Users/mark/projects/Enbala/vpp/vpp/rel/package/files/opt/vpp/ui/src/Units.elm",
+		"/Users/mark/projects/Enbala/vpp/vpp/rel/package/files/opt/vpp/ui/src/Measurement.elm",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/bidding/lib/process_need/impl.ex",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/topology/lib/adapters.ex",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/topology/lib/assets/water_heater.ex",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/bidding/lib/internal_model/internal_model.ex",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/demand_response/lib/need_processor.ex",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/bidding/lib/receiver.ex",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/demand_response/lib/need_processor/impl.ex",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/api/test/integration/bidding_test.exs",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/topology/lib/vpps/twin.ex",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/bidding/lib/process_need/supervisor.ex",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/demand_response/lib/receiver.ex",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/topology/lib/assets.ex",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/topology/lib/vpps.ex",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/bidding/lib/process_need.ex",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/topology/test/vpps_test.exs",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/topology/test/assets_test.exs",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/topology/test/sites_dr_test.exs",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/topology/test/support/test_case.ex",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/demand_response/lib/need_processor/supervisor.ex",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/topology/mix.exs",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/bidding/lib/untitled.ex",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/security/lib/security/user/store.ex",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/topology/lib/sites/store.ex",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/topology/lib/vpps/need_processor.ex",
+		"/Users/mark/projects/Enbala/vpp/vpp/rel/package/files/opt/vpp/ui/node_modules/node-sass/src/libsass/src/extend.cpp",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/topology/lib/vpps/vpp_store.ex",
+		"/Users/mark/projects/Enbala/vpp/vpp/README.md",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/topology/lib/vpps/tt.ex",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/topology/lib/vpps/tt",
+		"/Users/mark/projects/Enbala/vpp/vpp/bin/test",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/api/stderr_log",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/topology/lib/vpps/supervisor.ex",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/topology/lib/vpps/twin/supervisor.ex",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/bidding/mix.exs",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/bidding/cover/Elixir.Topology.Vpps.html",
+		"/Users/mark/projects/Enbala/vpp/vpp/vpp/apps/bidding/lib/process_need.ex",
+		"/Users/mark/projects/Enbala/vpp/vpp/vpp/apps/demand_response/lib/scheduler.ex",
+		"/Users/mark/projects/Enbala/vpp/vpp/vpp/apps/demand_response/lib/need_processor.ex",
+		"/Users/mark/projects/Enbala/vpp/vpp/vpp/apps/bidding/lib/receiver.ex",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/bidding/lib/bidding_request.ex",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/bidding/lib/bidding.ex",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/bidding/lib/solver/need.ex",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/bidding/test/process_needs/process_need_test.exs",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/security/mix.exs",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/topology/lib/vpps/need.ex",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/topology/lib/vpps/need_store.ex",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/bidding/lib/solver/solver.ex",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/bidding/test/solver/solver_test.exs",
+		"/Users/mark/projects/Enbala/vpp/vpp/apps/bidding/lib/solver/need_slice.ex"
 	],
 	"find":
 	{
-		"height": 24.0
+		"height": 25.0
 	},
 	"find_in_files":
 	{
 		"height": 101.0,
 		"where_history":
 		[
+			"-priv/static/*,-_build/*,-log/*, -deps/*, -cover/excoveralls.html, -*.html, -*.json, -*.elma, -*.elmo, -*.elmi"
 		]
 	},
 	"find_state":
@@ -726,6 +745,7 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"def"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -743,14 +763,46 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "lib/event_subscriber_supervisor.ex",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 464,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								464
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Elixir/Syntaxes/Elixir.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 24.0
+		"height": 25.0
 	},
 	"input":
 	{
@@ -793,7 +845,7 @@
 	},
 	"output.find_results":
 	{
-		"height": 363.0
+		"height": 92.0
 	},
 	"output.mdpopups":
 	{
@@ -803,7 +855,7 @@
 	"project": "subl.sublime-project",
 	"replace":
 	{
-		"height": 44.0
+		"height": 46.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -813,516 +865,516 @@
 		"selected_items":
 		[
 			[
-				"config/dev.exs",
-				"apps/data_persist/config/dev.exs"
-			],
-			[
-				"test.exs",
-				"apps/data_persist/config/test.exs"
-			],
-			[
-				"apps/topology/test/data/site_actions_test.exs",
-				"apps/topology/test/data/site_actions_test.exs"
-			],
-			[
-				"livtop",
-				"apps/topology/lib/topology/live_topology.ex"
-			],
-			[
-				"gotd",
-				"apps/ui/assets/elm/Derms/Pages/TopologyDashboard.elm"
-			],
-			[
-				"livetop",
-				"apps/topology/lib/topology/live_topology.ex"
-			],
-			[
-				"eventmanager",
-				"apps/control/lib/control/event_manager.ex"
-			],
-			[
-				"evense",
-				"apps/bus/lib/bus/event_server.ex"
-			],
-			[
-				"state",
-				"apps/topology/lib/topology/live_topology/state.ex"
-			],
-			[
 				"app",
-				"apps/topology/lib/topology/application.ex"
+				"apps/telemetry_router/lib/telemetry_router/application.ex"
 			],
 			[
-				"eventservtst",
-				"apps/bus/test/event_server_test.exs"
+				"teledata",
+				"apps/telemetry_router/lib/telemetry_router/data.ex"
 			],
 			[
-				"evenserv",
-				"apps/bus/lib/bus/event_server.ex"
+				"telemroute",
+				"apps/telemetry_router/lib/telemetry_router.ex"
 			],
 			[
-				"butest",
-				"apps/bus/test/bus_test.exs"
-			],
-			[
-				"event",
-				"apps/bus/lib/bus/event.ex"
-			],
-			[
-				"topapplicat",
-				"apps/topology/lib/topology/application.ex"
-			],
-			[
-				"livetoptest",
-				"apps/topology/test/topology/live_topology_test.exs"
-			],
-			[
-				"evtn",
-				"apps/bus/lib/bus/event.ex"
-			],
-			[
-				"live",
-				"apps/topology/lib/topology/live_topology.ex"
-			],
-			[
-				"violatio",
-				"apps/control/lib/control/violation.ex"
-			],
-			[
-				"violationeve",
-				"apps/control/lib/control/violation/event.ex"
-			],
-			[
-				"evenservtst",
-				"apps/bus/test/event_server_test.exs"
-			],
-			[
-				"busevent",
-				"apps/bus/lib/bus/event.ex"
-			],
-			[
-				"eveserv",
-				"apps/bus/lib/bus/event_server.ex"
-			],
-			[
-				"eventserver",
-				"apps/bus/lib/bus/event_server.ex"
-			],
-			[
-				"evenserver",
-				"apps/bus/test/event_server_test.exs"
-			],
-			[
-				"dispatc",
-				"apps/bus/lib/bus/dispatcher.ex"
-			],
-			[
-				"dis",
-				"apps/bus/lib/bus/dispatcher.ex"
-			],
-			[
-				"dispatcher_test.exs",
-				"apps/bus/test/dispatcher_test.exs"
-			],
-			[
-				"event_server_test.exs",
-				"apps/bus/test/event_server_test.exs"
-			],
-			[
-				"evensertst",
-				"apps/bus/test/event_server_test.exs"
-			],
-			[
-				"eventse",
-				"apps/bus/lib/bus/event_server.ex"
-			],
-			[
-				"feedercont",
-				"apps/api/lib/api_web/controllers/feeder_controller.ex"
-			],
-			[
-				"livetopol",
-				"apps/topology/lib/topology/live_topology.ex"
-			],
-			[
-				"evt",
-				"apps/utils/lib/utils/evt.ex"
-			],
-			[
-				"vioeven",
-				"apps/control/lib/control/violation/event.ex"
-			],
-			[
-				"violatoin",
-				"apps/control/lib/control/violation.ex"
-			],
-			[
-				"evtserver",
-				"apps/utils/test/evt_server_test.exs"
-			],
-			[
-				"connector_test.exs",
-				"apps/control/test/control/topology/connector_test.exs"
-			],
-			[
-				"evt_server_test.exs",
-				"apps/utils/test/evt_server_test.exs"
-			],
-			[
-				"conrecorpro",
-				"apps/control/lib/control/control_record_processor.ex"
-			],
-			[
-				"test/support/test_case.ex",
-				"apps/integration_tests/test/support/test_case.ex"
-			],
-			[
-				"reverse_flow_test.exs",
-				"apps/integration_tests/test/integration/reverse_flow_test.exs"
-			],
-			[
-				"apps/integration_tests/test/support/test_case.ex",
-				"apps/integration_tests/test/support/test_case.ex"
-			],
-			[
-				"evtserv",
-				"apps/utils/lib/utils/evt_server.ex"
-			],
-			[
-				"dispat",
-				"apps/utils/lib/utils/dispatcher.ex"
-			],
-			[
-				"integrationteststestcase",
-				"apps/integration_tests/test/support/test_case.ex"
-			],
-			[
-				"utiltelproce",
-				"apps/utils/lib/utils/telemetry_processor.ex"
-			],
-			[
-				"teleproce",
-				"apps/api/lib/api/telemetry_processor.ex"
-			],
-			[
-				"telemtr",
-				"apps/api/lib/api/query/telemetry.ex"
-			],
-			[
-				"evserv",
-				"apps/utils/lib/utils/evt_server.ex"
-			],
-			[
-				"violationtest",
-				"apps/control/test/control/violation_test.exs"
-			],
-			[
-				"apm",
-				"apps/control/lib/control/problem/apm.ex"
-			],
-			[
-				"evtservtest",
-				"apps/utils/test/evt_server_test.exs"
-			],
-			[
-				"evtser",
-				"apps/utils/lib/utils/evt_server.ex"
-			],
-			[
-				"dispatest",
-				"apps/utils/test/dispatcher_test.exs"
-			],
-			[
-				"evtsertest",
-				"apps/utils/test/evt_server_test.exs"
-			],
-			[
-				"feedh",
-				"apps/control/lib/control/feeder_health_monitor.ex"
-			],
-			[
-				"user_test.exs",
-				"apps/data/test/user_test.exs"
-			],
-			[
-				"telproc",
-				"apps/api/lib/api/telemetry_processor.ex"
-			],
-			[
-				"datatestcase",
-				"apps/data/test/support/test_case.ex"
-			],
-			[
-				"livetest",
-				"apps/topology/test/topology/live_topology_test.exs"
-			],
-			[
-				"notifcent",
-				"apps/control/lib/control/notification_center.ex"
-			],
-			[
-				"resourcehealthprocessor",
-				"apps/control/lib/control/resource_health_processor.ex"
-			],
-			[
-				"resource_health_processor_test.exs",
-				"apps/control/test/control/resource_health_processor_test.exs"
-			],
-			[
-				"fedheamotest",
-				"apps/control/test/control/feeder_health_monitor_test.exs"
-			],
-			[
-				"notcen",
-				"apps/control/lib/control/notification_center.ex"
-			],
-			[
-				"topology_event_processor.ex",
-				"apps/topology/test/topology/topology_event_processor_test.exs"
-			],
-			[
-				"topology_event_processotest",
-				"apps/topology/test/topology/topology_event_processor_test.exs"
-			],
-			[
-				"topprotest",
-				"apps/topology/test/topology/topology_event_processor_test.exs"
-			],
-			[
-				"topoeveprotest",
-				"apps/topology/test/topology/topology_event_processor_test.exs"
-			],
-			[
-				"connectorsupervisor",
-				"apps/control/lib/control/topology/connector_supervisor.ex"
-			],
-			[
-				"statetest",
-				"apps/topology/test/topology/live_topology/state_test.exs"
-			],
-			[
-				"connect",
-				"apps/control/lib/control/topology/connector.ex"
-			],
-			[
-				"topology_event_processor_test.exs",
-				"apps/control/test/control/topology_event_processor_test.exs"
-			],
-			[
-				"feede",
-				"apps/api/lib/api/feeders.ex"
-			],
-			[
-				"feed",
-				"apps/api/lib/api/feeders.ex"
-			],
-			[
-				"livete",
-				"apps/topology/lib/topology/live_topology.ex"
-			],
-			[
-				"apitestcase",
-				"apps/api/test/support/test_case.ex"
-			],
-			[
-				"testhelper",
-				"apps/topology/test/test_helper.exs"
-			],
-			[
-				"testhelp",
-				"apps/control/test/test_helper.exs"
-			],
-			[
-				"tehelp",
-				"apps/api/test/test_helper.exs"
-			],
-			[
-				"live_topology_test.exs",
-				"apps/topology/test/topology/live_topology_test.exs"
-			],
-			[
-				"livetopo",
-				"apps/topology/lib/topology/live_topology.ex"
-			],
-			[
-				"config",
-				"apps/control/config/config.exs"
-			],
-			[
-				"ask",
-				"apps/bidding/lib/solver/ask.ex"
-			],
-			[
-				"contrrecproctest",
-				"apps/control/test/control/control_record_processor_test.exs"
-			],
-			[
-				"querytest",
-				"apps/topology/test/topology/live_topology/query_test.exs"
-			],
-			[
-				"query",
-				"apps/topology/lib/topology/live_topology/query.ex"
-			],
-			[
-				"types",
-				"apps/control/lib/control/types.ex"
-			],
-			[
-				"liveconttest",
-				"apps/topology/test/topology/live_topology/connector_test.exs"
-			],
-			[
-				"contest",
-				"apps/data/test/connector_test.exs"
-			],
-			[
-				"apms",
-				"apps/integration_tests/test/integration/apm_shared_cases.ex"
-			],
-			[
-				"graph",
-				"apps/ui/assets/css/_line_graph.scss"
-			],
-			[
-				"raph",
-				"apps/topology/lib/topology/live_topology/graph.ex"
-			],
-			[
-				"",
-				"apps/integration_tests/test/integration/control_auth_test.exs"
-			],
-			[
-				"livetel",
-				"apps/topology/lib/topology/live_topology.ex"
-			],
-			[
-				"livtoptest",
-				"apps/topology/test/topology/live_topology_test.exs"
-			],
-			[
-				"conncase",
-				"apps/api/lib/api/query/connector_state_record.ex"
-			],
-			[
-				"assetqueries",
-				"apps/topology/lib/topology/data/asset_queries.ex"
-			],
-			[
-				"apptex",
-				"apps/topology/test/topology/application_test.exs"
-			],
-			[
-				"toplive",
-				"apps/topology/lib/topology/live_topology.ex"
-			],
-			[
-				"apmcas",
-				"apps/integration_tests/test/integration/apm_shared_cases.ex"
-			],
-			[
-				"assetsupervisor",
-				"apps/control/lib/control/topology/asset_supervisor.ex"
-			],
-			[
-				"micro",
-				"apps/data/lib/data/micro_synchrophasor.ex"
-			],
-			[
-				"topapp",
-				"apps/topology/lib/topology/application.ex"
-			],
-			[
-				"factory",
-				"apps/data/test/support/factory.ex"
-			],
-			[
-				"assetconttest",
-				"apps/api/test/api_web/controllers/asset_controller_test.exs"
-			],
-			[
-				"assettest",
-				"apps/data/test/asset_test.exs"
-			],
-			[
-				"testcase",
-				"apps/data/test/support/test_case.ex"
-			],
-			[
-				"modelcase",
-				"apps/data/test/support/model_case.ex"
-			],
-			[
-				"appl",
-				"apps/api/lib/api/application.ex"
-			],
-			[
-				"conect",
-				"apps/control/lib/control/topology/connector_supervisor.ex"
-			],
-			[
-				"lineseg",
-				"apps/topology/lib/topology/live_topology/connector/line_segment.ex"
-			],
-			[
-				"linsegtest",
-				"apps/topology/test/topology/live_topology/connector/line_segment_test.exs"
-			],
-			[
-				"linesetest",
-				"apps/data/test/line_segment_test.exs"
-			],
-			[
-				"super",
-				"apps/control/lib/control/supervisor.ex"
-			],
-			[
-				"apmshacases",
-				"apps/integration_tests/test/integration/apm_shared_cases.ex"
-			],
-			[
-				"resohealthp",
-				"apps/control/lib/control/resource_health_processor.ex"
-			],
-			[
-				"contrrec",
-				"apps/control/lib/control/data/control_record_queries.ex"
-			],
-			[
-				"notifier",
-				"apps/control/lib/control/notification_center.ex"
-			],
-			[
-				"telemetryprocessor",
-				"apps/optimization/lib/optimization/telemetry_processor.ex"
+				"record",
+				"apps/telemetry_router/lib/telemetry_router/telemetry_record.ex"
 			],
 			[
 				"telem",
-				"apps/api/lib/api/telemetry_processor.ex"
+				"apps/topology/lib/telemetry.ex"
 			],
 			[
-				"facory.elm",
-				"apps/ui/assets/test/elm/Derms/Fixtures/TopologyDashboard/TopologyFactory.elm"
+				"receiver",
+				"apps/api/lib/telemetry_receiver.ex"
 			],
 			[
-				"elementstore",
-				"apps/ui/assets/elm/Derms/SubApps/TopologyDashboard/ElementStore.elm"
+				"SiteLine.elm",
+				"rel/package/files/opt/vpp/ui/src/Components/Graphs/SiteLine.elm"
 			],
 			[
-				"ele",
-				"apps/ui/assets/elm/Derms/SubApps/TopologyDashboard/Element.elm"
+				"Relationships.elm",
+				"rel/package/files/opt/vpp/ui/src/Models/Relationships.elm"
 			],
 			[
-				"topfact",
-				"apps/ui/assets/test/elm/Derms/Fixtures/TopologyDashboard/TopologyFactory.elm"
+				"demandrespontest.ex",
+				"apps/api/test/integration/demand_response_test.exs"
 			],
 			[
-				"topdash",
-				"apps/ui/assets/elm/Derms/SubApps/TopologyDashboard.elm"
+				"sitetwinimpltest",
+				"apps/topology/test/sites/twin/impl_test.exs"
 			],
 			[
-				"topologydashboard.elm",
-				"apps/ui/assets/elm/Derms/SubApps/TopologyDashboard.elm"
+				"asstwinimptest",
+				"apps/topology/test/assets/twin/impl_test.exs"
+			],
+			[
+				"vpps twin impl_test.exs",
+				"apps/topology/test/vpps/twin/impl_test.exs"
+			],
+			[
+				"demand_response_test.exs",
+				"apps/api/test/integration/demand_response_test.exs"
+			],
+			[
+				"topology ",
+				"apps/topology/lib/topology.ex"
+			],
+			[
+				"site resolv",
+				"apps/api/lib/resolvers/site_resolver.ex"
+			],
+			[
+				"telemetry",
+				"apps/topology/lib/telemetry.ex"
+			],
+			[
+				"store",
+				"apps/telemetry_router/lib/telemetry_router/store.ex"
+			],
+			[
+				"telresolver",
+				"apps/api/lib/resolvers/telemetry_resolver.ex"
+			],
+			[
+				"telerecord",
+				"apps/telemetry_router/lib/telemetry_router/telemetry_record.ex"
+			],
+			[
+				"store implex",
+				"apps/telemetry_router/lib/telemetry_router/store/impl.ex"
+			],
+			[
+				"telestore",
+				"apps/telemetry_router/lib/telemetry_router/store.ex"
+			],
+			[
+				"telroute",
+				"apps/telemetry_router/lib/telemetry_router.ex"
+			],
+			[
+				"telerouttest",
+				"apps/telemetry_router/test/telemetry_router_test.exs"
+			],
+			[
+				"TelemetryRouter",
+				"apps/telemetry_router/lib/telemetry_router.ex"
+			],
+			[
+				"telerec",
+				"rel/package/files/opt/vpp/ui/src/Api/Object/TelemetryRecord.elm"
+			],
+			[
+				"tele record.ex",
+				"apps/telemetry_router/lib/telemetry_router/telemetry_record.ex"
+			],
+			[
+				"subscriptions.ex",
+				"apps/api/lib/subscriptions.ex"
+			],
+			[
+				"telemrouter",
+				"apps/telemetry_router/lib/telemetry_router.ex"
+			],
+			[
+				"telerecie",
+				"apps/api/lib/telemetry_receiver.ex"
+			],
+			[
+				"telemetry_resolver_test.exs",
+				"apps/api/test/resolvers/telemetry_resolver_test.exs"
+			],
+			[
+				"schemtelem",
+				"apps/api/lib/schema/telemetry.ex"
+			],
+			[
+				"data",
+				"apps/telemetry_router/lib/telemetry_router/data.ex"
+			],
+			[
+				"teletest",
+				"apps/topology/test/telemetry_test.exs"
+			],
+			[
+				"telemetry_router.ex",
+				"apps/telemetry_router/lib/telemetry_router.ex"
+			],
+			[
+				"demanresotest",
+				"apps/api/test/integration/demand_response_test.exs"
+			],
+			[
+				"telemex",
+				"apps/topology/lib/telemetry.ex"
+			],
+			[
+				"telemetry.ex",
+				"apps/topology/lib/telemetry.ex"
+			],
+			[
+				"telemrecord",
+				"apps/telemetry_router/lib/telemetry_router/telemetry_record.ex"
+			],
+			[
+				"telereceex",
+				"apps/api/lib/telemetry_receiver.ex"
+			],
+			[
+				"telrecord",
+				"apps/telemetry_router/lib/telemetry_router/telemetry_record.ex"
+			],
+			[
+				"Record",
+				"apps/telemetry_router/lib/telemetry_router/telemetry_record.ex"
+			],
+			[
+				"impl_test",
+				"apps/topology/test/assets/twin/impl_test.exs"
+			],
+			[
+				"TelemetryRecord",
+				"rel/package/files/opt/vpp/ui/src/Models/NewTelemetryRecord.elm"
+			],
+			[
+				"integracase",
+				"apps/api/test/support/integration_case.ex"
+			],
+			[
+				"telroutstore",
+				"apps/telemetry_router/lib/telemetry_router/store.ex"
+			],
+			[
+				"ui/src/Pages/Site/Show.elm",
+				"rel/package/files/opt/vpp/ui/src/Pages/Site/Show.elm"
+			],
+			[
+				"Telemetry rout",
+				"apps/telemetry_router/lib/telemetry_router.ex"
+			],
+			[
+				"terouter",
+				"apps/telemetry_router/lib/telemetry_router.ex"
+			],
+			[
+				"telemresolver",
+				"apps/api/lib/resolvers/telemetry_resolver.ex"
+			],
+			[
+				"telemreso",
+				"apps/api/test/resolvers/telemetry_resolver_test.exs"
+			],
+			[
+				"telemetryrecord",
+				"apps/telemetry_router/lib/telemetry_router/telemetry_record.ex"
+			],
+			[
+				"telemetry_resolver.ex",
+				"apps/api/lib/resolvers/telemetry_resolver.ex"
+			],
+			[
+				"telrecor",
+				"apps/telemetry_router/lib/telemetry_router/telemetry_record.ex"
+			],
+			[
+				"telemetryrouter",
+				"apps/telemetry_router/test/telemetry_router_test.exs"
+			],
+			[
+				"routstoreex",
+				"apps/telemetry_router/lib/telemetry_router/store.ex"
+			],
+			[
+				"telemetryrouterstore",
+				"apps/telemetry_router/test/telemetry_router_test.exs"
+			],
+			[
+				"telemetryrouterstoreimpl",
+				"apps/telemetry_router/lib/telemetry_router/store/impl.ex"
+			],
+			[
+				"storeimpltest",
+				"apps/topology/test/demand_response/impl_test.exs"
+			],
+			[
+				"storeimpl",
+				"apps/telemetry_router/lib/telemetry_router/store/impl.ex"
+			],
+			[
+				"telemrec",
+				"apps/telemetry_router/lib/telemetry_router/telemetry_record.ex"
+			],
+			[
+				"telstoreex",
+				"apps/telemetry_router/lib/telemetry_router/store.ex"
+			],
+			[
+				"assresolver",
+				"apps/api/lib/resolvers/asset_resolver.ex"
+			],
+			[
+				"control.ex",
+				"apps/bidding/lib/internal_model/control_message.ex"
+			],
+			[
+				"sitetwinimpl",
+				"apps/topology/lib/sites/twin/impl.ex"
+			],
+			[
+				"apischematelee",
+				"apps/api/lib/schema/telemetry.ex"
+			],
+			[
+				"main.elm",
+				"rel/package/files/opt/vpp/ui/src/Main.elm"
+			],
+			[
+				"units",
+				"rel/package/files/opt/vpp/ui/src/Units.elm"
+			],
+			[
+				"mesmentelm",
+				"rel/package/files/opt/vpp/ui/src/Measurement.elm"
+			],
+			[
+				"telemetryrecordex",
+				"apps/telemetry_router/lib/telemetry_router/telemetry_record.ex"
+			],
+			[
+				"subscript.ex",
+				"apps/api/lib/subscriptions.ex"
+			],
+			[
+				"shate",
+				"apps/api/test/schema/shared_types_test.exs"
+			],
+			[
+				"share",
+				"apps/api/lib/schema/shared_types.ex"
+			],
+			[
+				"telemrecelm",
+				"rel/package/files/opt/vpp/ui/src/Models/TelemetryRecord.elm"
+			],
+			[
+				"sharetype",
+				"apps/api/lib/schema/shared_types.ex"
+			],
+			[
+				"sharetypetest",
+				"apps/api/test/schema/shared_types_test.exs"
+			],
+			[
+				"telerouter",
+				"apps/telemetry_router/test/telemetry_router_test.exs"
+			],
+			[
+				"waterheatex",
+				"apps/topology/lib/assets/water_heater.ex"
+			],
+			[
+				"relay",
+				"apps/topology/lib/adapters/relay.ex"
+			],
+			[
+				"adapt",
+				"apps/topology/lib/adapters.ex"
+			],
+			[
+				"biddinrecex",
+				"apps/bidding/lib/receiver.ex"
+			],
+			[
+				"procneedimplex",
+				"apps/bidding/lib/process_need/impl.ex"
+			],
+			[
+				"assetwinex",
+				"apps/topology/lib/assets/twin.ex"
+			],
+			[
+				"/vpps/twin/impl.ex",
+				"apps/topology/lib/vpps/twin/impl.ex"
+			],
+			[
+				"biddtest",
+				"apps/api/test/integration/bidding_test.exs"
+			],
+			[
+				"twinimpl",
+				"apps/topology/test/vpps/twin/impl_test.exs"
+			],
+			[
+				"asstwinex",
+				"apps/topology/lib/assets/twin.ex"
+			],
+			[
+				"impl_test.exs",
+				"apps/topology/test/vpps/twin/impl_test.exs"
+			],
+			[
+				"bidd",
+				"apps/api/test/integration/bidding_test.exs"
+			],
+			[
+				"tescase",
+				"apps/topology/test/support/test_case.ex"
+			],
+			[
+				"tehelper",
+				"apps/api/test/test_helper.exs"
+			],
+			[
+				"vppstest",
+				"apps/topology/test/vpps_test.exs"
+			],
+			[
+				"biddintest",
+				"apps/api/test/integration/bidding_test.exs"
+			],
+			[
+				"superv",
+				"apps/demand_response/lib/need_processor/supervisor.ex"
+			],
+			[
+				"vppstwinimplex",
+				"apps/topology/lib/vpps/twin/impl.ex"
+			],
+			[
+				"proceneedimpex",
+				"apps/bidding/lib/process_need/impl.ex"
+			],
+			[
+				"supervi",
+				"apps/demand_response/lib/need_processor/supervisor.ex"
+			],
+			[
+				"vppsimplex",
+				"apps/topology/lib/vpps/twin/impl.ex"
+			],
+			[
+				"impl",
+				"apps/topology/lib/assets/twin/impl.ex"
+			],
+			[
+				"demareceex",
+				"apps/demand_response/lib/receiver.ex"
+			],
+			[
+				"needprocessorex",
+				"apps/topology/lib/vpps/need_processor.ex"
+			],
+			[
+				"twin.ex",
+				"apps/topology/lib/assets/twin.ex"
+			],
+			[
+				"vppimpltest",
+				"apps/topology/test/vpps/twin/impl_test.exs"
+			],
+			[
+				"impltest",
+				"apps/bidding/test/process_needs/impl_test.exs"
+			],
+			[
+				"internalmodelex",
+				"apps/bidding/lib/internal_model/internal_model.ex"
+			],
+			[
+				"teshelper",
+				"apps/api/test/test_helper.exs"
+			],
+			[
+				"proce",
+				"apps/bidding/lib/process_need.ex"
+			],
+			[
+				"biddingtes",
+				"apps/api/test/integration/bidding_test.exs"
+			],
+			[
+				"ttex",
+				"apps/topology/lib/vpps/tt.ex"
+			],
+			[
+				"proneed",
+				"apps/bidding/lib/process_need.ex"
+			],
+			[
+				"apitesthelper.ex",
+				"apps/api/test/test_helper.exs"
+			],
+			[
+				"assstoreex",
+				"apps/topology/lib/assets/store.ex"
+			],
+			[
+				"vpps",
+				"apps/topology/lib/vpps.ex"
+			],
+			[
+				"twin",
+				"apps/topology/lib/vpps/twin.ex"
+			],
+			[
+				"receive",
+				"apps/bidding/lib/receiver.ex"
+			],
+			[
+				"twinimpl.ex",
+				"vpp/apps/topology/lib/vpps/twin/impl.ex"
+			],
+			[
+				"twinimpltst",
+				"vpp/apps/topology/test/vpps/twin/impl_test.exs"
+			],
+			[
+				"twintestexs",
+				"vpp/apps/topology/test/vpps/twin/impl_test.exs"
+			],
+			[
+				"proceneedtest",
+				"vpp/apps/bidding/test/process_needs/process_need_test.exs"
+			],
+			[
+				"vppstwinimpltest",
+				"vpp/apps/topology/test/vpps/twin/impl_test.exs"
+			],
+			[
+				"needex",
+				"vpp/apps/topology/lib/vpps/need.ex"
+			],
+			[
+				"needstore.ex",
+				"vpp/apps/topology/lib/vpps/need_store.ex"
+			],
+			[
+				"topvpps.ex",
+				"vpp/apps/topology/lib/vpps.ex"
+			],
+			[
+				"vppstore",
+				"vpp/apps/topology/lib/vpps/vpp_store.ex"
+			],
+			[
+				"vppstwinimpl",
+				"vpp/apps/topology/lib/vpps/twin/impl.ex"
+			],
+			[
+				"procneed",
+				"vpp/apps/bidding/lib/process_need.ex"
+			],
+			[
+				"proceneedte",
+				"apps/bidding/test/process_needs/process_need_test.exs"
+			],
+			[
+				"need_slice",
+				"apps/bidding/lib/solver/need_slice.ex"
+			],
+			[
+				"need",
+				"apps/bidding/lib/solver/need.ex"
 			]
 		],
 		"width": 0.0
@@ -1353,7 +1405,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 231.0,
+	"side_bar_width": 239.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

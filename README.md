@@ -1,6 +1,6 @@
 # PubSub Demo
 
-Demo of how to get phoenix_pubsub running without phoenix
+Demo of how to get [phoenix_pubsub](https://hex.pm/packages/phoenix_pubsub) running without phoenix
 
 * EventSubscriber.Supervisor.start_link()
 * EventSubscriber.start_link([])         
